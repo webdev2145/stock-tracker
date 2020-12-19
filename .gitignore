@@ -1,1 +1,4 @@
 twilio_credentials.py
+.project_config
+__pycache__
+.idea
