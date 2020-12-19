@@ -23,6 +23,6 @@ The script will use the alphadvantage.co api to get information on a stock for e
 
 - I will look into adding those steps at a later date
 
-- I have removed my twilio, news and stock api keys (These are NEEDED for the script to work)
+- I have removed my twilio, news and stock api keys (These are **NEEDED** for the script to work)
 
 
