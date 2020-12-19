@@ -63,14 +63,6 @@ if percentage_increase > 5:
                         )
         output = ""
 
-
-# pprint(yesterday_closing_stock_price)
-#
-# print(difference_between_stocks)
-#
-# print(percentage_increase)
-#
-
 # ####Sources
 # #Stocks data
 #https://www.alphavantage.co/documentation/#daily
